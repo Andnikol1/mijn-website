@@ -47,6 +47,8 @@ nav a:hover {
 
 .header {
     text-align: center;
+    color: white; /* Maak de tekst wit zodat hij contrasteert met de donkere achtergrond */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Zorg voor extra leesbaarheid */
 }
 
 .header h1 {
