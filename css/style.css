@@ -28,7 +28,7 @@ body::before {
 */
 
 nav {
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.9);
     padding: 15px 20px;
     border-bottom: 2px solid #dce4dc;
     text-align: center;
