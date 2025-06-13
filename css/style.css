@@ -47,12 +47,12 @@ nav a:hover {
 
 .header {
     text-align: center;
-    color: white; /* Maak de tekst wit zodat hij contrasteert met de donkere achtergrond */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Zorg voor extra leesbaarheid */
+    color: white;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
 }
 
 .header h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     margin-bottom: 10px;
 }
 
